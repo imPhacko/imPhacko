@@ -21,6 +21,8 @@ Chronological — from a from-scratch RNN before public LLMs existed, through ph
 | Jun 2024 | [ttH-higgs-pt-regression](https://github.com/imPhacko/ttH-higgs-pt-regression) | CMS ttH kinematics study and Higgs pT regression (0.993 correlation), benchmarked against a published CMS result — year-1 master's research |
 | Jun 2024 | [quantum-computing](https://github.com/imPhacko/quantum-computing) | Qiskit and QuEST implementations of quantum algorithms (QFT, Deutsch–Jozsa, teleportation, quantum Zeno effect) |
 | Jul 2024 | [recommendation_model_tv](https://github.com/imPhacko/recommendation_model_tv) | Content-based movie recommender (keyword vectors + cosine similarity) built for a Telia internship task |
+| 2024 | [mpi-poisson-solver](https://github.com/imPhacko/mpi-poisson-solver) | Serial vs. MPI-parallelized Poisson equation solver, benchmarked on an HPC cluster |
+| Sep–Dec 2024 | [ai-coursework](https://github.com/imPhacko/ai-coursework) | Bayesian networks, EM/GMM clustering, Hopfield networks, Naive Bayes, classical planning, minimax game AI, search algorithms, and MDPs |
 | Nov 2024 | [CNN_fashion_MNIST_project](https://github.com/imPhacko/CNN_fashion_MNIST_project) | CNN classifier for Fashion MNIST built from scratch in PyTorch |
 | Dec 2024 | [Mandelbrot_reverse_search](https://github.com/imPhacko/Mandelbrot_reverse_search) | Reverse-searches a Mandelbrot set snippet's coordinates and zoom level using SIFT/FLANN feature matching |
 
